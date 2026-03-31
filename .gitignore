@@ -1,0 +1,12 @@
+# Các file môi trường 
+.env
+
+# Các file model nặng
+models_weights/
+*.pth
+*.pt
+
+# Folder rác của Python
+__pycache__/
+*.pyc
+
